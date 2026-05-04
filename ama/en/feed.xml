@@ -11,10 +11,11 @@
     <itunes:summary>The best Reddit r/AMA threads transformed into AI-powered audio podcasts.</itunes:summary>
     <itunes:owner>
       <itunes:name>zoobidoo</itunes:name>
+      <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/cover.jpg"/>
+    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/cover.png"/>
 
     <item>
       <title>AMA: $100,000 a Year as a Professional Human Guinea Pig</title>
