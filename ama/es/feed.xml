@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AMA: Ask Me Anything (Español)</title>
+    <title>Historias de Reddit: AMA</title>
     <description>Los mejores hilos de Reddit r/AMA transformados en podcasts de audio con inteligencia artificial.</description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/es/</link>
     <language>es-es</language>
