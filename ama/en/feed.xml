@@ -4,6 +4,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reddit Stories: AMA</title>
+    <itunes:new-feed-url>https://feeds.redcircle.com/a7fb10aa-0287-4914-a391-94492aeaeae1</itunes:new-feed-url>
     <description>The best Reddit r/AMA threads transformed into AI-powered audio podcasts. 
 Also available in: 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/en/</link>
