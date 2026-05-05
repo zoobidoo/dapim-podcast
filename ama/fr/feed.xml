@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Histoires Reddit : AMA</title>
+    <description>Les meilleurs threads Reddit r/AMA transformés en podcasts audio par IA.
+Aussi disponible en : 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
+    <link>https://zoobidoo.github.io/dapim-podcast/ama/fr/</link>
+    <language>fr-fr</language>
+    <itunes:author>zoobidoo</itunes:author>
+    <itunes:summary>Les meilleurs threads Reddit r/AMA transformés en podcasts audio par IA.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>zoobidoo</itunes:name>
+      <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/fr/cover.png"/>
+
+    <item>
+      <title>AMA : Cobaye humain professionnel à 100 000 $ par an</title>
+      <description><![CDATA[Dans cet épisode, nous explorons l'histoire fascinante d'un utilisateur de Reddit qui a quitté son emploi pour devenir un « cobaye humain » à plein temps, participant à des essais cliniques de phase I.
+
+Découvrez comment il parvient à gagner plus de 100 000 $ par an en participant à environ six études au Royaume-Uni, tout en respectant scrupuleusement les périodes de repos obligatoires entre chaque test. L'épisode approfondit les risques pour la santé, les effets secondaires et les réalités du métier.
+
+Aussi disponible en : 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a>]]></description>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_fr_episode1.m4a" length="31105261" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ama-fr-episode-1</guid>
+      <itunes:author>zoobidoo</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
