@@ -4,12 +4,15 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reddit 故事：AMA</title>
-    <description>最好的 Reddit r/AMA 帖子转化为 AI 驱动的音频播客。
-也可以在以下语言中收听： 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
+    <description><![CDATA[深入探索 Reddit (r/AMA) 中最引人入胜的讨论。“Reddit 故事”对 Reddit 社区分享的真实经历进行了深度分析和叙事探索。从神秘职业到非凡的人生事件，让我们一起通过互联网最热门的讨论来探索人类的经验。
+
+同时提供以下语言版本：English, Français, Español, Deutsch, Italiano, 日本語.]]></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/cn/</link>
     <language>zh-cn</language>
     <itunes:author>zoobidoo</itunes:author>
-    <itunes:summary>最好的 Reddit r/AMA 帖子转化为 AI 驱动的音频播客。</itunes:summary>
+    <itunes:summary>深入探索 Reddit (r/AMA) 中最引人入胜的讨论。“Reddit 故事”对 Reddit 社区分享的真实经历进行了深度分析 and 叙事探索。从神秘职业到非凡的人生事件，让我们一起通过互联网最热门的讨论来探索人类的经验。
+
+同时提供以下语言版本：English, Français, Español, Deutsch, Italiano, 日本語.</itunes:summary>
     <itunes:owner>
       <itunes:name>zoobidoo</itunes:name>
       <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
