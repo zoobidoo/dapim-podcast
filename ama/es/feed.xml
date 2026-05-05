@@ -4,12 +4,15 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Historias de Reddit: AMA</title>
-    <description>Los mejores hilos de Reddit r/AMA transformados en podcasts de audio con inteligencia artificial.
-También disponible en: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a></description>
+    <description><![CDATA[Sumérgete en las discusiones más fascinantes de Reddit (r/AMA). "Historias de Reddit" ofrece un análisis profundo y un relato narrativo de las experiencias reales compartidas por la comunidad. Desde profesiones secretas hasta eventos de vida extraordinarios, acompáñanos a explorar la experiencia humana a través de las conversaciones más populares de internet.
+
+También disponible en: English, Français, Deutsch, Italiano, 中文, 日本語.]]></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/es/</link>
     <language>es-es</language>
     <itunes:author>zoobidoo</itunes:author>
-    <itunes:summary>Los mejores hilos de Reddit r/AMA transformados en podcasts de audio con inteligencia artificial.</itunes:summary>
+    <itunes:summary>Sumérgete en las discusiones más fascinantes de Reddit (r/AMA). "Historias de Reddit" ofrece un análisis profundo y un relato narrativo de las experiencias reales compartidas por la comunidad. Desde profesiones secretas hasta eventos de vida extraordinarios, acompáñanos a explorar la experiencia humana a través de las conversaciones más populares de internet.
+
+También disponible en: English, Français, Deutsch, Italiano, 中文, 日本語.</itunes:summary>
     <itunes:owner>
       <itunes:name>zoobidoo</itunes:name>
       <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
