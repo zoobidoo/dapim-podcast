@@ -4,12 +4,15 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reddit ストーリーズ：AMA</title>
-    <description>最高の Reddit r/AMA スレッドが AI 搭載のオーディオポッドキャストに。
-他の言語でも利用可能： 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
+    <description><![CDATA[Reddit (r/AMA) の最も魅力的なスレッドを深く掘り下げます。「Reddit ストーリーズ」は、Reddit コミュニティが共有する実体験を深く分析し、物語としてお届けします。秘密の職業から並外れた人生の出来事まで、インターネットで最も人気のある議論を通じて、人間の経験を探求しましょう。
+
+他の言語でも利用可能：English, Français, Español, Deutsch, Italiano, 中文.]]></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/jp/</link>
     <language>ja-jp</language>
     <itunes:author>zoobidoo</itunes:author>
-    <itunes:summary>最高の Reddit r/AMA スレッドが AI 搭載のオーディオポッドキャストに。</itunes:summary>
+    <itunes:summary>Reddit (r/AMA) の最も魅力的なスレッドを深く掘り下げます。「Reddit ストーリーズ」は、Reddit コミュニティが共有する実体験を深く分析し、物語としてお届けします。秘密の職業から並外れた人生の出来事まで、インターネットで最も人気のある議論を通じて、人間の経験を探求しましょう。
+
+他の言語でも利用可能：English, Français, Español, Deutsch, Italiano, 中文.</itunes:summary>
     <itunes:owner>
       <itunes:name>zoobidoo</itunes:name>
       <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
@@ -19,13 +22,13 @@
     <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/jp/cover.png"/>
 
     <item>
-      <title>AMA：年収10万ドルを稼ぐプロの「人間モルモット」</title>
-      <description><![CDATA[このエピソードでは、第1相臨床試験のプロの「人間モルモット」として年間10万ドル以上を稼ぐ Reddit ユーザーの非典型的なキャリアを探ります。
+      <title>1500万稼ぐプロモルモットの現実</title>
+      <description><![CDATA[このエピソードでは、第1相臨床試験のプロの「人間モルモット」として年間10万ドル以上を稼ぐ Reddit ユーザーの驚くべき日常とキャリアを探ります。リスク、報酬、そして医学の裏側にある真実とは？
 
-他の言語でも利用可能： 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a>]]></description>
+他の言語でも利用可能：English, Français, Español, Deutsch, Italiano, 中文.]]></description>
       <pubDate>Tue, 05 May 2026 09:00:00 +0200</pubDate>
-      <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_jp_episode1.m4a" length="30647957" type="audio/x-m4a"/>
-      <guid isPermaLink="false">ama-jp-episode-1</guid>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/jp_audio_ama_v2.m4a" length="30540384" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ama-jp-episode-1-v2</guid>
       <itunes:author>zoobidoo</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
