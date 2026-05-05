@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
 		<title><![CDATA[Histoires Reddit : AMA]]></title>
-		<description><![CDATA[Plongez dans les histoires vraies des AMA Reddit. Une sélection des questions et réponses les plus fascinantes, anonymisées et racontées pour vous, en français. Chaque épisode, un nouvel échange, une nouvelle découverte.]]></description>
+		<description><![CDATA[Plongez au cœur des discussions les plus fascinantes de Reddit (r/AMA). "Histoires Reddit" vous propose une analyse approfondie et une mise en récit des témoignages les plus marquants de la communauté. Des coulisses de métiers insolites aux récits de vie extraordinaires, explorez l'expérience humaine à travers les échanges les plus populaires du web. 
+
+Disponible dans d'autres langues : English, Español, Deutsch, Italiano, 中文, 日本語.]]></description>
 		<link>https://podcasters.spotify.com/pod/show/dapim</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Tue, 05 May 2026 14:07:40 GMT</lastBuildDate>
@@ -11,7 +13,9 @@
 		<language><![CDATA[fr]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>dapim</itunes:author>
-		<itunes:summary>Plongez dans les histoires vraies des AMA Reddit. Une sélection des questions et réponses les plus fascinantes, anonymisées et racontées pour vous, en français. Chaque épisode, un nouvel échange, une nouvelle découverte.</itunes:summary>
+		<itunes:summary>Plongez au cœur des discussions les plus fascinantes de Reddit (r/AMA). "Histoires Reddit" vous propose une analyse approfondie et une mise en récit des témoignages les plus marquants de la communauté. Des coulisses de métiers insolites aux récits de vie extraordinaires, explorez l'expérience humaine à travers les échanges les plus populaires du web. 
+
+Disponible dans d'autres langues : English, Español, Deutsch, Italiano, 中文, 日本語.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>dapim</itunes:name>
