@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Storie di Reddit: AMA</title>
+    <description>I migliori thread Reddit r/AMA trasformati in podcast audio alimentati dall'intelligenza artificiale.
+Disponibile anche in: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
+    <link>https://zoobidoo.github.io/dapim-podcast/ama/it/</link>
+    <language>it-it</language>
+    <itunes:author>zoobidoo</itunes:author>
+    <itunes:summary>I migliori thread Reddit r/AMA trasformati in podcast audio alimentati dall'intelligenza artificiale.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>zoobidoo</itunes:name>
+      <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/it/cover.png"/>
+
+    <item>
+      <title>AMA: Guadagnare 100.000 dollari all'anno come "cavia umana" professionista</title>
+      <description><![CDATA[In questo episodio esploriamo la storia di un utente Reddit che ha lasciato il suo lavoro per diventare una "cavia umana" a tempo pieno, guadagnando oltre 100.000 dollari l'anno.
+
+Disponibile anche in: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a>]]></description>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_it_episode1.m4a" length="43224393" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ama-it-episode-1</guid>
+      <itunes:author>zoobidoo</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
