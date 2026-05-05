@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reddit ストーリーズ：AMA</title>
+    <description>最高の Reddit r/AMA スレッドが AI 搭載のオーディオポッドキャストに。
+他の言語でも利用可能： 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
+    <link>https://zoobidoo.github.io/dapim-podcast/ama/jp/</link>
+    <language>ja-jp</language>
+    <itunes:author>zoobidoo</itunes:author>
+    <itunes:summary>最高の Reddit r/AMA スレッドが AI 搭載のオーディオポッドキャストに。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>zoobidoo</itunes:name>
+      <itunes:email>herve.kuntzmann@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/jp/cover.png"/>
+
+    <item>
+      <title>AMA：年収10万ドルを稼ぐプロの「人間モルモット」</title>
+      <description><![CDATA[このエピソードでは、第1相臨床試験のプロの「人間モルモット」として年間10万ドル以上を稼ぐ Reddit ユーザーの非典型的なキャリアを探ります。
+
+他の言語でも利用可能： 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a> | 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a>]]></description>
+      <pubDate>Tue, 05 May 2026 09:00:00 +0200</pubDate>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_jp_episode1.m4a" length="30647957" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ama-jp-episode-1</guid>
+      <itunes:author>zoobidoo</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
