@@ -4,7 +4,8 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Historias de Reddit: AMA</title>
-    <description>Los mejores hilos de Reddit r/AMA transformados en podcasts de audio con inteligencia artificial.</description>
+    <description>Los mejores hilos de Reddit r/AMA transformados en podcasts de audio con inteligencia artificial.
+También disponible en: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/es/</link>
     <language>es-es</language>
     <itunes:author>zoobidoo</itunes:author>
@@ -23,7 +24,9 @@
 
 **Selección y Frecuencia**: El mercado de los ensayos es muy favorable para los voluntarios sanos: de unas 6.000 vacantes disponibles, el autor estima ser elegible para entre 2.000 y 3.000. El simple hecho de estar sano, no fumar y tener un peso adecuado ofrece numerosas oportunidades. Participa en unos 6 ensayos al año.
 
-**Riesgos**: El autor considera que la mayoría de estos estudios no son peligrosos y elige evitar deliberadamente procedimientos invasivos. Sus efectos secundarios se han limitado principalmente a sequedad de garganta y dolores de cabeza.]]></description>
+**Riesgos**: El autor considera que la mayoría de estos estudios no son peligrosos y elige evitar deliberadamente procedimientos invasivos. Sus efectos secundarios se han limitado principalmente a sequedad de garganta y dolores de cabeza.
+
+También disponible en: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a>]]></description>
       <pubDate>Mon, 04 May 2026 18:00:00 +0200</pubDate>
       <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_es_episode1.m4a" length="51135443" type="audio/x-m4a"/>
       <guid isPermaLink="false">ama-es-episode-1</guid>
