@@ -4,7 +4,8 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reddit Stories: AMA</title>
-    <description>The best Reddit r/AMA threads transformed into AI-powered audio podcasts.</description>
+    <description>The best Reddit r/AMA threads transformed into AI-powered audio podcasts. 
+Also available in: 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a></description>
     <link>https://zoobidoo.github.io/dapim-podcast/ama/en/</link>
     <language>en-us</language>
     <itunes:author>zoobidoo</itunes:author>
@@ -19,7 +20,9 @@
 
     <item>
       <title>AMA: $100,000 a Year as a Professional Human Guinea Pig</title>
-      <description>This clinical trial discussion focuses on a professional 'human guinea pig' who makes over $100,000 annually by participating in medical trials. Key points include compensation, safety protocols, and the reality of testing tomorrow's drugs.</description>
+      <description><![CDATA[This clinical trial discussion focuses on a professional 'human guinea pig' who makes over $100,000 annually by participating in medical trials. Key points include compensation, safety protocols, and the reality of testing tomorrow's drugs.
+
+Also available in: 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVKDUO">Español (ES)</a>]]></description>
       <pubDate>Mon, 04 May 2026 15:00:00 +0200</pubDate>
       <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_en_episode1.m4a" length="42262607" type="audio/x-m4a"/>
       <guid isPermaLink="false">ama-en-episode-1</guid>
