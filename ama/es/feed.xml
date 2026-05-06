@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -20,10 +20,9 @@ También disponible en: English, Français, Deutsch, Italiano, 中文, 日本語
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/es/cover.png"/>
-
         <item>
-      <title>Veintiocho dÃ­as para huir de casa</title>
-      <description><![CDATA[Un estudiante de Ãºltimo aÃ±o de secundaria revela un plan sorprendente: inmediatamente despuÃ©s de su examen final, se dirigirÃ¡ al aeropuerto para comenzar una nueva vida con sus tÃ­os, dejando atrÃ¡s a su familia sin previo aviso. La conversaciÃ³n explora los motivos de este escape secreto â€”evitar empleos sin futuro y una universidad local mal gestionadaâ€” y los desafÃ­os logÃ­sticos de financiar una mudanza y asegurar un futuro en contra de los deseos de sus padres. Una mirada tensa y emotiva a la bÃºsqueda de independencia de un joven adulto.
+      <title>AMA : Veintiocho dÃ­as para huir de casa</title>
+      <description><![CDATA[Un estudiante de Ãºltimo aÃ±o de secundaria revela un plan sorprendente: inmediatamente despuÃ©s de su examen final, se dirigirÃ¡ al aeropuerto para comenzar una nueva vida con sus tÃ­os, dejando atrÃ¡s a su familia sin previo aviso. La conversaciÃ³n explora los motivos de este escape secreto - evitar empleos sin futuro y una universidad local mal gestionada - y los desafÃ­os logÃ­sticos de financiar una mudanza y asegurar un futuro en contra de los deseos de sus padres. Una mirada tensa y emotiva a la bÃºsqueda de independencia de un joven adulto.
 
 TambiÃ©n disponible en: English, FranÃ§ais, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
       <pubDate>Wed, 06 May 2026 09:00:00 +0200</pubDate>
