@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -18,6 +18,18 @@ Auch verfügbar in: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53p
     <itunes:category text="Technology"/>
     <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/de/cover.png"/>
 
+        <item>
+      <title>Heimliche Flucht am Tag des Abschlusses</title>
+      <description><![CDATA[Ein Highschool-Absolvent enthÃ¼llt einen gewagten Plan: Unmittelbar nach der letzten PrÃ¼fung geht es direkt zum Flughafen, um bei Tante und Onkel ein neues Leben zu beginnen â€“ ohne die Eltern vorzuwarnen. Die Diskussion beleuchtet die HintergrÃ¼nde dieser heimlichen Flucht â€“ das Entkommen aus perspektivlosen Jobs und einem schlecht gefÃ¼hrten lokalen College â€“ sowie die logistischen Herausforderungen, den Umzug gegen den Willen der Eltern zu finanzieren. Ein spannender und emotionaler Einblick in den Kampf eines jungen Erwachsenen um UnabhÃ¤ngigkeit.
+
+Auch verfÃ¼gbar in: English, FranÃ§ais, EspaÃ±ol, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
+      <pubDate>Wed, 06 May 2026 09:00:00 +0200</pubDate>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ep0002_de.m4a" length="40429425" type="audio/x-m4a"/>
+      <guid isPermaLink="false">ama-de-episode-2</guid>
+      <itunes:author>zoobidoo</itunes:author>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>AMA: 100.000 Dollar im Jahr als professionelles menschliches Versuchskaninchen</title>
       <description><![CDATA[In dieser Episode beleuchten wir die Geschichte eines Reddit-Nutzers, der als professionelles "menschliches Versuchskaninchen" über 100.000 Dollar im Jahr verdient.
