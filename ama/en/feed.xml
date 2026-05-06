@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -18,10 +18,9 @@ Also available in: 🇪🇸 <a href="https://open.spotify.com/show/3KqAl4JrVkfVK
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/en/cover.png"/>
-
         <item>
-      <title>Skipping graduation for a secret flight</title>
-      <description><![CDATA[A high school senior reveals a daring plan: immediately after their final exam, they will head to the airport to start a new life with their aunt and uncle, leaving their family behind without warning. The discussion explores the motivations behind this secret escapeâ€”escaping a poorly managed local college and dead-end jobsâ€”and the logistical challenges of funding a move and securing a future against their parents' wishes. A tense and emotional look at a young adult's quest for independence.
+      <title>AMA : Skipping graduation for a secret flight</title>
+      <description><![CDATA[A high school senior reveals a daring plan: immediately after their final exam, they will head to the airport to start a new life with their aunt and uncle, leaving their family behind without warning. The discussion explores the motivations behind this secret escape - escaping a poorly managed local college and dead-end jobs - and the logistical challenges of funding a move and securing a future against their parents' wishes. A tense and emotional look at a young adult's quest for independence.
 
 Also available in: FranÃ§ais, EspaÃ±ol, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
       <pubDate>Wed, 06 May 2026 09:00:00 +0200</pubDate>
