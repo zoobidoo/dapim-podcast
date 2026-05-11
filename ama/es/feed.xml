@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:itunes="http://www.itunes.com/díast-1.0.dtd" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Historias de Reddit: AMA</title>
-    <días díascinantes días días experiencias reales compartidías por la comunidías hasta eventos días conversaciones más populares de internet.
-
-También disponible en: English, Français, Deutsch, Italiano, 中文, 日本語.]]></description>
-    <link>https://zoobidíast/ama/es/</link>
+    <description><![CDATA[Sum&#233;rgete en las discusiones mÃ¡s fascinantes de Reddit (r/AMA). "Historias de Reddit" ofrece un anÃ¡lisis profundo y un relato narrativo de las experiencias reales compartidas por la comunidad. Desde profesiones secretas hasta eventos de vida extraordinarios, acompÃ¡&#241;anos a explorar la experience humana a trav&#233;s de las conversaciones mÃ¡s populares de internet. Tambi&#233;n disponible en: English, FranÃ§ais, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
+    <link>https://zoobidoo.github.io/dapim-podcast/ama/es/</link>
     <language>es-es</language>
     <itunes:author>zoobidoo</itunes:author>
-    <itunes:summary>Sumérgete en las díascinantes días días experiencias reales compartidías por la comunidías hasta eventos días conversaciones más populares de internet.
-
-También disponible en: English, Français, Deutsch, Italiano, 中文, 日本語.</itunes:summary>
+    <itunes:summary>Sum&#233;rgete en las discusiones mÃ¡s fascinantes de Reddit (r/AMA). "Historias de Reddit" ofrece un anÃ¡lisis profundo y un relato narrativo de las experiencias reales compartidas por la comunidad. Desde profesiones secretas hasta eventos de vida extraordinarios, acompÃ¡&#241;anos a explorar la experiencia humana a trav&#233;s de las conversaciones mÃ¡s populares de internet. Tambi&#233;n disponible en: English, FranÃ§ais, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.</itunes:summary>
     <itunes:owner>
       <itunes:name>zoobidoo</itunes:name>
       <itunes:email>hskpodcastadmin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://zoobidíast/ama/es/cover.png"/>
-        <item><title>AMA : Veintiocho días para huir de casa</title>
-      <díasegurar un futuro en contra de los deseos de sus padres. Una mirada tensa y emotiva a la bÃºsqueda de independencia de un joven adulto.
+    <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/es/cover.png"/>
+    <item>
+      <title>AMA : Veintiocho d&#237;as para huir de casa</title>
+      <description><![CDATA[Un estudiante de Ãºltimo a&#241;o de secundaria revela un plan sorprendente: inmediatamente despu&#233;s de su examen final, se dirigirÃ¡ al aeropuerto para comenzar una nueva vida con sus t&#237;os, dejando atrÃ¡s a su familia sin previo aviso. La conversaciÃ³n explora los motivos de este escape secreto â€”evitar empleos sin futuro y una universidad local mal gestionadaâ€” y los desaf&#237;os log&#237;sticos de financiar una mudanza y asegurar un futuro en contra de los deseos de sus padres. Una mirada tensa et emotiva a la bÃºsqueda de independencia de un joven adulto.
 
-TambiÃ©n disponible en: English, FranÃ§ais, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
+Disponible tambi&#233;n en : English, FranÃ§ais, Deutsch, Italiano, ä¸­æ–‡, æ—¥æœ¬èªž.]]></description>
       <pubDate>Wed, 06 May 2026 09:00:00 +0200</pubDate>
-      <enclosure url="https://archive.org/díast-ama/ep0002_es.m4a" length="44444771" type="audio/x-m4a"/>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ep0002_es.m4a" length="38456221" type="audio/x-m4a"/>
       <guid isPermaLink="false">ama-es-episode-2</guid>
       <itunes:author>zoobidoo</itunes:author>
       <itunes:duration>00:08:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-    <item><title>AMA : Cobaya humano profesional en ensayos clínicos</title>
-      <díase I.
-
-**Selección y Frecuencia**: El mercadías 6.000 vacantes días oportunidades. Participa en unos 6 ensayos al año.
-
-**Riesgos**: El autor considíasivos. Sus efectos secundarios se han limitado principalmente a sequedad de garganta y dolores de cabeza.
-
-También disponible en: 🇺🇸 <a href="https://open.spotify.com/show/1uQoOMDrn53pcabRyXNTYJ">English (US)</a>]]></description>
+    <item>
+      <title>AMA : Cobaya humano profesional en ensayos cl&#237;nicos</title>
+      <description><![CDATA[En esta discusiÃ³n, un usuario comparte su experiencia como "cobaya humano" profesional, ganando mÃ¡s de 100.000 $ al a&#241;o por su participaciÃ³n en ensayos cl&#237;nicos de medicamentos de Fase I. Participa en unos 6 ensayos al a&#241;o. Sus efectos secundarios se han limitado principalmente a sequedad de garganta y dolores de cabeza.]]></description>
       <pubDate>Mon, 04 May 2026 18:00:00 +0200</pubDate>
-      <enclosure url="https://archive.org/díast-ama/ama_es_episode1.m4a" length="51135443" type="audio/x-m4a"/>
+      <enclosure url="https://archive.org/download/dapim-podcast-ama/ama_es_episode1.m4a" length="51135443" type="audio/x-m4a"/>
       <guid isPermaLink="false">ama-es-episode-1</guid>
       <itunes:author>zoobidoo</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
