@@ -5,7 +5,7 @@
     <description><![CDATA[Plongez dans les histoires vraies des AMA Reddit. Une s&#233;lection des questions et r&#233;ponses les plus fascinantes, anonymis&#233;es et racont&#233;es pour vous, en français. Chaque &#233;pisode, un nouvel &#233;change, une nouvelle d&#233;couverte.]]></description>
     <link>https://podcasters.spotify.com/pod/show/dapim</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 05 May 2026 14:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:24:16 GMT</lastBuildDate>
     <atom:link href="https://anchor.fm/s/1045044fc/podcast/rss" rel="self" type="application/rss+xml" />
     <author><![CDATA[dapim]]></author>
     <copyright><![CDATA[dapim]]></copyright>
@@ -21,6 +21,27 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Society &amp; Culture" />
     <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/fr/cover.png" />
+    <item>
+      <title><![CDATA[AMA : Mort pendant son jogging, réveillé trois mois plus tard]]></title>
+      <description><![CDATA[<p>Il avait 21 ans, aucun antécédent, et il était un coureur passionné. Pendant un jogging, son cœur s'est arrêté. Sauvé par un étudiant en médecine qui courait à côté et lui a fait un massage cardiaque, il s'est réveillé trois mois plus tard, persuadé d'avoir simplement trop dormi et raté son cours. Dans cet AMA, il raconte le « tout noir » de la mort, son réveil devant une sitcom, les médecins qui le disaient incapable de faire des études, son diplôme d'ingénieur, et la leçon qu'il en tire : la vie est courte.</p><p>Source : un fil « Ask Me Anything » publié sur r/AMA le 16 octobre 2026 : <a href="https://www.reddit.com/r/AMA/comments/1x7vcex/i_died_while_on_a_joghad_a_cardiac_arrest_and/">https://www.reddit.com/r/AMA/comments/1x7vcex/i_died_while_on_a_joghad_a_cardiac_arrest_and/</a><br />Les propos ont été résumés, traduits et anonymisés.</p><p>Cet épisode a été écrit et mis en voix par intelligence artificielle à partir de ce fil public. Il ne constitue pas un avis médical.</p>
+]]></description>
+      <link>https://www.reddit.com/r/AMA/comments/1x7vcex/i_died_while_on_a_joghad_a_cardiac_arrest_and/</link>
+      <guid isPermaLink="false">histoires-reddit-ama-0031</guid>
+      <dc:creator><![CDATA[dapim]]></dc:creator>
+      <pubDate>Thu, 22 Oct 2026 09:24:16 +0200</pubDate>
+      <enclosure url="https://github.com/zoobidoo/dapim-podcast/releases/download/ama-fr-0031/ep0031_fr.mp3" length="7646606" type="audio/mpeg" />
+      <itunes:summary>Il avait 21 ans, aucun antécédent, et il était un coureur passionné. Pendant un jogging, son cœur s'est arrêté. Sauvé par un étudiant en médecine qui courait à côté et lui a fait un massage cardiaque, il s'est réveillé trois mois plus tard, persuadé d'avoir simplement trop dormi et raté son cours. Dans cet AMA, il raconte le « tout noir » de la mort, son réveil devant une sitcom, les médecins qui le disaient incapable de faire des études, son diplôme d'ingénieur, et la leçon qu'il en tire : la vie est courte.
+
+Source : un fil « Ask Me Anything » publié sur r/AMA le 16 octobre 2026 : https://www.reddit.com/r/AMA/comments/1x7vcex/i_died_while_on_a_joghad_a_cardiac_arrest_and/
+Les propos ont été résumés, traduits et anonymisés.
+
+Cet épisode a été écrit et mis en voix par intelligence artificielle à partir de ce fil public. Il ne constitue pas un avis médical.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/fr/cover.png" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AMA : Dispara&#238;tre le jour de son dipl&#244;me</title>
       <description><![CDATA[Un lyc&#233;en en terminale partage son plan audacieux : juste apr&#232;s ses derniers examens, il s'envolera pour commencer une nouvelle vie chez son oncle et sa tante, quittant sa famille sans les pr&#233;venir. L'&#233;pisode plonge dans les raisons de cette fuite secr&#232;te â€]]></description>      <pubDate>Wed, 06 May 2026 09:00:00 +0200</pubDate>
