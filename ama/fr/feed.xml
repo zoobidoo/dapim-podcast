@@ -7,7 +7,7 @@
 Plongez dans les histoires vraies des AMA Reddit. Une sélection des questions et réponses les plus fascinantes, anonymisées et racontées pour vous, en français. Chaque épisode, un nouvel échange, une nouvelle découverte.]]></description>
     <link>https://open.spotify.com/show/2mShauL2cUfvAND4l03Z9g</link>
     <generator>dapim-podcast</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 07:05:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:59:28 +0100</lastBuildDate>
     <atom:link href="https://zoobidoo.github.io/dapim-podcast/ama/fr/feed.xml" rel="self" type="application/rss+xml" />
     <author><![CDATA[dapim]]></author>
     <copyright><![CDATA[dapim]]></copyright>
@@ -34,6 +34,28 @@ Plongez dans les histoires vraies des AMA Reddit. Une sélection des questions e
     <podcast:locked owner="hskpodcastadmin@gmail.com">yes</podcast:locked>
     <podcast:guid>b0d8bc56-44a1-5e1e-9892-40e1b5eda30b</podcast:guid>
     <podcast:txt purpose="ai-content">true</podcast:txt>
+    <item>
+      <title><![CDATA[AMA : Se réveiller en pleine opération, 30 minutes sans pouvoir bouger]]></title>
+      <description><![CDATA[<p>Voix de synthèse générées par intelligence artificielle. Histoire partagée sur Reddit, résumée, traduite et anonymisée : ce ne sont pas les voix des personnes concernées.</p><p>Une arthroscopie du genou, une opération de routine. Mais au bout d'une quinzaine de minutes, la personne qui témoigne se réveille : paralysée par le curare, les yeux fermés par du ruban adhésif, intubée, elle sent tout pendant trente minutes sans pouvoir bouger ni crier. Dix-neuf ans plus tard, elle raconte ce réveil brutal, le regard de l'anesthésiste à la fin, les années de cauchemars, la plainte qu'elle n'a jamais pu déposer, ce qui l'a aidée à guérir, de la pleine conscience à Tetris, et les questions qu'elle pose désormais avant chaque opération.</p><p>D'après un témoignage « Ask Me Anything » partagé sur Reddit en novembre 2026. Les propos ont été résumés, traduits et anonymisés.</p><p>Cet épisode ne constitue pas un avis médical.</p>]]></description>
+      <link>https://open.spotify.com/show/2mShauL2cUfvAND4l03Z9g</link>
+      <guid isPermaLink="false">histoires-reddit-ama-0034</guid>
+      <dc:creator><![CDATA[dapim]]></dc:creator>
+      <pubDate>Thu, 12 Nov 2026 06:59:28 +0100</pubDate>
+      <enclosure url="https://github.com/zoobidoo/dapim-podcast/releases/download/ama-fr-0034/ep0034_fr.mp3" length="7913682" type="audio/mpeg" />
+      <itunes:summary>Voix de synthèse générées par intelligence artificielle. Histoire partagée sur Reddit, résumée, traduite et anonymisée : ce ne sont pas les voix des personnes concernées.
+
+Une arthroscopie du genou, une opération de routine. Mais au bout d'une quinzaine de minutes, la personne qui témoigne se réveille : paralysée par le curare, les yeux fermés par du ruban adhésif, intubée, elle sent tout pendant trente minutes sans pouvoir bouger ni crier. Dix-neuf ans plus tard, elle raconte ce réveil brutal, le regard de l'anesthésiste à la fin, les années de cauchemars, la plainte qu'elle n'a jamais pu déposer, ce qui l'a aidée à guérir, de la pleine conscience à Tetris, et les questions qu'elle pose désormais avant chaque opération.
+
+D'après un témoignage « Ask Me Anything » partagé sur Reddit en novembre 2026. Les propos ont été résumés, traduits et anonymisés.
+
+Cet épisode ne constitue pas un avis médical.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:08:15</itunes:duration>
+      <itunes:image href="https://zoobidoo.github.io/dapim-podcast/ama/fr/cover-3000-v2.jpg" />
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:txt purpose="ai-content">true</podcast:txt>
+    </item>
     <item>
       <title><![CDATA[AMA : Donneuse d'embryons, 17 enfants nés de ses dons]]></title>
       <description><![CDATA[<p>Voix de synthèse générées par intelligence artificielle. Histoire partagée sur Reddit, résumée, traduite et anonymisée : ce ne sont pas les voix des personnes concernées.</p><p>Elle voulait simplement devenir mère. Au Royaume-Uni, après trois cycles de fécondation in vitro, elle se retrouve avec vingt-six embryons. Elle en garde cinq et donne les autres : selon elle, dix-sept enfants sont déjà nés dans d'autres familles. Dans cet AMA, elle raconte l'amie infertile qui a eu un fils grâce à elle, le choix des familles parmi plus de deux cents candidats, la fin de l'anonymat des donneurs, le prix physique de la FIV, le deuil d'un fils qu'elle n'a pas eu, et la façon dont elle parle de leurs demi-frères et sœurs à ses propres enfants.</p><p>D'après un témoignage « Ask Me Anything » partagé sur Reddit en octobre 2026. Les propos ont été résumés, traduits et anonymisés.</p><p>Cet épisode ne constitue pas un avis médical.</p>]]></description>
